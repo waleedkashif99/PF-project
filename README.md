@@ -1,4 +1,4 @@
-# PF-project
+# PF-FinalProject
 this is my repository of my 1st semester project
 <br>
 I have created a C program called "Alexander-The Answer machine." In this program, the user inputs a question, and the program provides an answer. For example, if I ask, "What is the color of my shirt?" it will tell me the color of my shirt.
